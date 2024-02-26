@@ -19,4 +19,16 @@ public class comments {
 
 
     }
+
+    /**
+     *
+     * @param x
+     * @param y
+     * @return
+     */
+
+    public static int add(int x, int y) {
+        return (x + y);
+    }
+
 }
