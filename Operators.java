@@ -10,7 +10,7 @@ public class Operators {
      * They follow a certain precedence
      */
     public static void main(String[] args){
-        //create two ineger
+        //create two integer
         int x =20;
         int y =6;
         //1. Arithmetic operators
